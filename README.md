@@ -6,5 +6,8 @@ https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb
 Demonstration link :
 https://youtu.be/cPlnTRxlMh0
 
+playlist link:
+https://youtube.com/playlist?list=PLioAxA7pYeL42Dfh0LB2SMs38Bf_HGDk9
+
 public link :
 https://smartinternz.com/student-profile/feed/U0IyMDIxMDE1MDEyMw==
